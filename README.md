@@ -3,3 +3,4 @@
 ## List:
 
 - [sonarqube](./sonaqube/)
+- [selenoid](./selenoid/)
