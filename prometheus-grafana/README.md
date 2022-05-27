@@ -44,3 +44,5 @@ docker compose down
 - After run up the compose, access Prometheus with this link [http://localhost:9090](http://localhost:9090).
 
 - Access Grafana with link [http://localhost:3000](http://localhost:3000) and default admin account to login is: `admin / admin`.
+
+- To view the resources from Node Exporter, recommended to import dashboard ID `1860`.
