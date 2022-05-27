@@ -46,3 +46,5 @@ docker compose down
 - Access Grafana with link [http://localhost:3000](http://localhost:3000) and default admin account to login is: `admin / admin`.
 
 - To view the resources from Node Exporter, recommended to import dashboard ID `1860`.
+
+![1860.jpg](./images/1860.jpg)
